@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: credit_risk__predition_model
+Version: 0.0.1
+Author: MarcusG
+Author-email: adelguo@hotmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
