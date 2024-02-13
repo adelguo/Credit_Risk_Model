@@ -1,5 +1,8 @@
+### venv/bin/pip install -r requirements.txt
 pandas
 numpy
 seaborn
 datetime
+scikit-learn
+xgboost
 -e .
