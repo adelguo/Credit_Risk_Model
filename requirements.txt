@@ -5,4 +5,5 @@ seaborn
 datetime
 scikit-learn
 xgboost
+dataclasses
 -e .
